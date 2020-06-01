@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Simple project Database Sqllite</string>
+
+    <string name="prodectname">Prodect name:</string>
+    <string name="prodectnumber">number:</string>
+    <string name="prodectbuy">Purchasing</string>
+    <string name="prodectsale">selling</string>
+    <string name="prodectview">number of units sold</string>
+    <string name="numberrest">rest number</string>
+    <string name="result">result</string>
+    <string name="namecustomer">Name Customer:</string>
+    <string name="here">Here</string>
+    <string name="Recordthesale">Record the sale</string>
+    <string name="phone">phone</string>
+
+    <string name="Time_Date">Time and Date</string>
+    <string name="name_company">name Company</string>
+
+
+    <string name="stores">Stores</string>
+    <string name="Acccount">Accounts</string>
+    <string name="customer">Customer</string>
+    <string name="report">Sales record</string>
+
+    <string name="store_by">Store by</string>
+
+    <string name="save">Save</string>
+    <string name="update_Data">Update Date</string>
+
+
+    <string name="name">Name Custamer</string>
+    <string name="company">Name Company</string>
+    <string name="telephone">telephone</string>
+    <string name="address">Address </string>
+    <string name="deserved_amount">deserved amount</string>
+
+
+    <string name="Please_name_customer">Please name customer</string>
+    <string name="Please_phone_customer">Please phone customer</string>
+    <string name="Please_address_customer">Please Address customer</string>
+
+
+    <string name="client">Clients</string>
+    <string name="Sales_process">Sales process</string>
+    <string name="Please_number_quantity">Please write the number and the quantity</string>
+
+    <string name="successfully_Save_Data"> Save Data successfully  </string>
+    <string name="successfully_update_Data"> Update Data successfully  </string>
+
+    <string name="message">The value is greater than the number in stock</string>
+    <string name="message1">customer name must be written</string>
+    <string name="message2">The calculation must be completed</string>
+    <string name="message3">The sale has been saved </string>
+</resources>
